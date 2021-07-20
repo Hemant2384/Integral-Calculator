@@ -1,5 +1,9 @@
 Integral Calculator
 Dot product calculator
 Cross product calculator
-![New Tab - Google Chrome 28-11-2020 11_54_59](https://user-images.githubusercontent.com/60097403/126263208-339d1781-126b-4fa1-90ed-c4ce9ffe716e.png)
+
+
+https://user-images.githubusercontent.com/60097403/126265480-cc968b01-d6ab-438f-90d5-7485c98b5aa1.mp4
+
+
 
